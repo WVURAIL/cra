@@ -5,5 +5,5 @@ This site provides information on how to construct and operate a horn radio tele
 
 ## Radio Telescope Horn Construction
 
-1. Basic Horn
+1. Basic Horn Construction
 2. Optional Modifications
