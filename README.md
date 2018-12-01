@@ -7,12 +7,12 @@ This site provides information on how to construct and operate a horn radio tele
 
 1. Basic Design
 
-*  [Basic Horn Construction](https://teams.microsoft.com/_?tenantId=a7531e18-3e5d-4145-ae4c-336d320ca7e4#/pdf/viewer/teams/https:~2F~2Fwestvirginiauniversity.sharepoint.com~2Fsites~2FDSPIRA~2FShared%20Documents~2FGeneral~2FFiles%20Organized~2FHorn%20Telescope%20Construction~2FDSPIRA_Horn_Assembly.pdf?threadId=19:2c84e45929e74fb7826a0432cde857db@thread.skype&baseUrl=https:~2F~2Fwestvirginiauniversity.sharepoint.com~2Fsites~2FDSPIRA&fileId=210338D7-63EB-41D7-B479-715C07D50689&ctx=files&viewerAction=view)
+   * [Basic Horn Construction](https://teams.microsoft.com/_?tenantId=a7531e18-3e5d-4145-ae4c-336d320ca7e4#/pdf/viewer/teams/https:~2F~2Fwestvirginiauniversity.sharepoint.com~2Fsites~2FDSPIRA~2FShared%20Documents~2FGeneral~2FFiles%20Organized~2FHorn%20Telescope%20Construction~2FDSPIRA_Horn_Assembly.pdf?threadId=19:2c84e45929e74fb7826a0432cde857db@thread.skype&baseUrl=https:~2F~2Fwestvirginiauniversity.sharepoint.com~2Fsites~2FDSPIRA&fileId=210338D7-63EB-41D7-B479-715C07D50689&ctx=files&viewerAction=view)
 
 
-*   [Photos](https://teams.microsoft.com/_?tenantId=a7531e18-3e5d-4145-ae4c-336d320ca7e4#/pdf/viewer/teams/https:~2F~2Fwestvirginiauniversity.sharepoint.com~2Fsites~2FDSPIRA~2FShared%20Documents~2FGeneral~2FFiles%20Organized~2FHorn%20Telescope%20Construction~2FHornConstruction_photos.pdf?threadId=19:2c84e45929e74fb7826a0432cde857db@thread.skype&baseUrl=https:~2F~2Fwestvirginiauniversity.sharepoint.com~2Fsites~2FDSPIRA&fileId=8FD28235-422C-4560-A923-3C4EBE030EF8&ctx=files&viewerAction=view)
+   * [Photos](https://teams.microsoft.com/_?tenantId=a7531e18-3e5d-4145-ae4c-336d320ca7e4#/pdf/viewer/teams/https:~2F~2Fwestvirginiauniversity.sharepoint.com~2Fsites~2FDSPIRA~2FShared%20Documents~2FGeneral~2FFiles%20Organized~2FHorn%20Telescope%20Construction~2FHornConstruction_photos.pdf?threadId=19:2c84e45929e74fb7826a0432cde857db@thread.skype&baseUrl=https:~2F~2Fwestvirginiauniversity.sharepoint.com~2Fsites~2FDSPIRA&fileId=8FD28235-422C-4560-A923-3C4EBE030EF8&ctx=files&viewerAction=view)
 
 
 2. Optional Modifications
 
-*   _{coming}_
+   * _{coming}_
