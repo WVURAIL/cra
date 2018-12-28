@@ -7,7 +7,7 @@ This site provides information on how to construct and operate a horn radio tele
 
 1. Basic Design
 
-   * [Basic Horn Construction](https://github.com/jmakous/cra_resources/upload/master/DSPIRA_Horn_Assembly.pdf)
+   * [Basic Horn Construction](https://github.com/jmakous/cra_resources/blob/master/DSPIRA_Horn_Assembly.pdf)
 
 
    * [Photos](https://westvirginiauniversity.sharepoint.com/sites/DSPIRA/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x0120000544F14FA6D28F418DA75F429DA972FF&id=%2Fsites%2FDSPIRA%2FShared%20Documents%2FGeneral%2FFiles%20Organized%2FOrganized%20Files%20pdf%2FHornConstruction_photos%2Epdf&parent=%2Fsites%2FDSPIRA%2FShared%20Documents%2FGeneral%2FFiles%20Organized%2FOrganized%20Files%20pdf)
