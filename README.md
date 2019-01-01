@@ -22,4 +22,4 @@ This site provides information on how to construct and operate a horn radio tele
    
    * [Using the Calibration Block and the _spectrum_w_cal.grc_ Program](https://github.com/jmakous/cra_files/blob/master/Instructions_DSPIRAHorn_spectrometer_program.pdf)
    
-   * [Observation Check List](https://github.com/jmakous/cra_files/blob/master/Observations_Check List.pdf)
+   * [Observations Check List](https://github.com/jmakous/cra_files/blob/master/Observations_Check List.pdf)
