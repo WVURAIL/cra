@@ -23,3 +23,8 @@ This site provides information on how to construct and operate a horn radio tele
    * [Using the Calibration Block and the _spectrum_w_cal.grc_ Program](https://github.com/jmakous/cra_files/blob/master/Instructions_DSPIRAHorn_spectrometer_program.pdf)
    
    * [Observations Check List](https://github.com/jmakous/cra_files/blob/master/Observations_CheckList.pdf)
+
+## Lesson Plans and Teaching Materials
+
+1. [Wavelength, radiation, EM Spectrum Introduction Activity](https://github.com/jmakous/cra_files/blob/master/wavelengths_radiation_EM_intro.pdf)
+2. [Fourier Transform Activity](https://github.com/jmakous/cra_files/blob/master/FourierTransform_Activity.pdf)
