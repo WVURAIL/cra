@@ -33,3 +33,20 @@ This site provides information on how to construct and operate a horn radio tele
 3. Velocity Curve Activities
 
    * [Lesson 1: Introductory Activity](https://github.com/jmakous/cra_files/blob/master/VelocityCurve_Lesson1_2018.pdf)
+   
+   * [Lesson 1: Introductory Activity Follow-up](https://github.com/jmakous/cra_files/blob/master/VelocityCurve_Lesson1_Followup_2018.pdf)
+   
+   * [Lesson 2: The Electromagnetic Spectrum](https://github.com/jmakous/cra_files/blob/master/VelocityCurve_Lesson2_2018.pdf)
+   
+   * [Lesson 3: The 21 cm Wavelength of Neutral Hydrogen](https://github.com/jmakous/cra_files/blob/master/VelocityCurve_Lesson3_2018.pdf)
+   
+   * [Lesson 4: Celestial Coordinate Systems](https://github.com/jmakous/cra_files/blob/master/VelocityCurve_Lesson4_2018.pdf)
+   
+   * [Lesson 5: Using Stellarium](https://github.com/jmakous/cra_files/blob/master/VelocityCurve_Lesson5_2018.pdf)
+   
+   * [Lesson 6: Galactic Plane Observation 1](https://github.com/jmakous/cra_files/blob/master/VelocityCurve_Lesson6_GalacticPlaneObservation1_2018.pdf)
+   
+   * [Lesson 6: Galactic Plane Observation 1 - Conclusions](https://github.com/jmakous/cra_files/blob/master/VelocityCurve_Lesson6_GalacticPlaneObservation1_Conclusions_2018.pdf)
+   
+   * [Lesson 7: Galactic Plane Observation 2](https://github.com/jmakous/cra_files/blob/master/VelocityCurve_Lesson7_2018.pdf)
+   
