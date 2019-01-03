@@ -30,7 +30,7 @@ This site provides information on how to construct and operate a horn radio tele
 
 2. [Fourier Transform Activity](https://github.com/jmakous/cra_files/blob/master/FourierTransform_Activity.pdf)
 
-3. Velocity Curve Activities
+3. Velocity Curve Lessons
 
    * [Lesson 1: Introductory Activity](https://github.com/jmakous/cra_files/blob/master/VelocityCurve_Lesson1_2018.pdf)
    
