@@ -29,3 +29,7 @@ This site provides information on how to construct and operate a horn radio tele
 1. [Wavelength, radiation, EM Spectrum Introduction Activity](https://github.com/jmakous/cra_files/blob/master/wavelengths_radiation_EM_intro.pdf)
 
 2. [Fourier Transform Activity](https://github.com/jmakous/cra_files/blob/master/FourierTransform_Activity.pdf)
+
+3. Velocity Curve Activities
+
+* [Lesson 1: Introductory Activity] (https://github.com/jmakous/cra_files/blob/master/FourierTransform_Activity.pdf)
