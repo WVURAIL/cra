@@ -6,7 +6,7 @@ This site provides support for teachers interested in doing radio astronomy in t
 This site provides information on how to construct and operate a horn radio telescope as well as lesson plans and ideas on incorporating radio astronomy in the classroom.
 
 ## Radio Telescope Horn Construction
-<img align="right" width="200" height="140" src="https://github.com/jmakous/cra_files/blob/master/Students_w_Horn_parkinglot.jpg">
+<img align="right" width="200" height="140" src="https://github.com/jmakous/cra_files/blob/master/Students_w_Horn_parkinlot.jpg">
 
 1. Basic Design
 
