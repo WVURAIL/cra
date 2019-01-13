@@ -12,7 +12,7 @@ This site provides information on how to construct and operate a horn radio tele
 
    * [Basic Horn Construction](https://github.com/WVURAIL/cra/Files_uploaded/blob/master/DSPIRA_Horn_Assembly.pdf)
 
-   * [Horn Design and Construction, with Photos](https://github.com/WVURAIL/cra/Files_uploaded/blob/master/HornTelescope_Design_CRA.pdf)
+   * [Horn Design and Construction, with Photos](https://github.com/WVURAIL/cra/Files_uploaded/blob/master/HornTelescope_Design_CRA.pdf)cra/Files_uploaded/EM_spectrum_Worksheet.jpg
 
 
 2. Optional Modifications
@@ -35,7 +35,7 @@ This site provides information on how to construct and operate a horn radio tele
 
 3. Velocity Curve Lessons
 
-   * [Lesson 1: Introductory Activity](https://github.com/jmakous/cra_files/blob/master/VelocityCurve_Lesson1_2018.pdf)
+   * [Lesson 1: Introductory Activity](https://github.com/WVURAIL/cra/Files_uploaded/blob/master/VelocityCurve_Lesson1_2018.pdf)
    
    * [Lesson 1: Introductory Activity Follow-up](https://github.com/jmakous/cra_files/blob/master/VelocityCurve_Lesson1_Followup_2018.pdf)
    
