@@ -20,9 +20,9 @@ This site provides information on how to construct and operate a horn radio tele
     
       a. Build the LNA yourself. You will need to purchase all the components and solder the board together. This is a fun project in itself. All the schematics/hardware etc. are open and public. 
       
-          - Schematics etc. can be found [here]</os_radio_astro_hw>
+          - [Schematics etc. can be found here](/os_radio_astro_hw)
           
-          - Circuit boards can be purchased here: https://oshpark.com/shared_projects/qHhrAlnI
+          - Circuit boards can be purchased here:<https://oshpark.com/shared_projects/qHhrAlnI>
 
       b. Use a different amplifier system using discrete components.  If you plan to go this way, there are some recommendations already on the opensourceradiotelescopes.org site. This is more expensive, but will be much easier. 
 
