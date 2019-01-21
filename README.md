@@ -12,7 +12,7 @@ This site provides information on how to construct and operate a horn radio tele
 
    * [Basic Horn Construction](/Files_uploaded/DSPIRA_Horn_Assembly.pdf)
    
-   * [Horn Design and Construction, with Photos](https://github.com/WVURAIL/cra/Files_uploaded/blob/master/HornTelescope_Design_CRA.pdf)
+   * [Horn Design and Construction, with Photos](/Files_uploaded/HornTelescope_Design_CRA.pdf)
    
    * Information on Constructing a Low Noise Amplifier
   
@@ -32,7 +32,7 @@ This site provides information on how to construct and operate a horn radio tele
    
 3. Instructions for Collecting Data
    
-   * [Hardware and Software Needs for Operating the Horn Telescope](https://github.com/jmakous/cra_files/blob/master/HardwareSoftware_Needs_for_HornTelescope.pdf)
+   * [Hardware and Software Needs for Operating the Horn Telescope](/Files_uploaded/HardwareSoftware_Needs_for_HornTelescope.pdf)
    
    * [Using the Calibration Block and the _spectrum_w_cal.grc_ Program](https://github.com/jmakous/cra_files/blob/master/Instructions_DSPIRAHorn_spectrometer_program.pdf)
    
