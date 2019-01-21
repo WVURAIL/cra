@@ -34,9 +34,9 @@ This site provides information on how to construct and operate a horn radio tele
    
    * [Hardware and Software Needs for Operating the Horn Telescope](/Files_uploaded/HardwareSoftware_Needs_for_HornTelescope.pdf)
    
-   * [Using the Calibration Block and the _spectrum_w_cal.grc_ Program](https://github.com/jmakous/cra_files/blob/master/Instructions_DSPIRAHorn_spectrometer_program.pdf)
+   * [Using the Calibration Block and the _spectrum_w_cal.grc_ Program](/Files_uploaded/Instructions_DSPIRAHorn_spectrometer_program.pdf)
    
-   * [Observations Check List](https://github.com/jmakous/cra_files/blob/master/Observations_CheckList.pdf)
+   * [Observations Check List](/Files_uploaded/Observations_CheckList.pdf)
 
 ## Lesson Plans and Teaching Materials
 
@@ -46,7 +46,7 @@ This site provides information on how to construct and operate a horn radio tele
 
 3. Velocity Curve Lessons
 
-   * [Lesson 1: Introductory Activity](https://github.com/WVURAIL/cra/Files_uploaded/blob/master/VelocityCurve_Lesson1_2018.pdf)
+   * [Lesson 1: Introductory Activity](/Files_uploaded/VelocityCurve_Lesson1_2018.pdf)
    
    * [Lesson 1: Introductory Activity Follow-up](https://github.com/jmakous/cra_files/blob/master/VelocityCurve_Lesson1_Followup_2018.pdf)
    
