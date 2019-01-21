@@ -12,8 +12,15 @@ This site provides information on how to construct and operate a horn radio tele
 
    * [Basic Horn Construction](https://github.com/WVURAIL/cra/Files_uploaded/blob/master/DSPIRA_Horn_Assembly.pdf)
 
-   * [Horn Design and Construction, with Photos](https://github.com/WVURAIL/cra/Files_uploaded/blob/master/HornTelescope_Design_CRA.pdf)cra/Files_uploaded/EM_spectrum_Worksheet.jpg
+   * [Horn Design and Construction, with Photos](https://github.com/WVURAIL/cra/Files_uploaded/blob/master/HornTelescope_Design_CRA.pdf)cra/Files_uploaded/EM_spectrum_Worksheet.jpg)
+   
+  * Infor on constructing a Low Noise Amplifier
+    The LNA that is used with horn telescopes is not commercially availabel. Here are 2 options:
+      a. Build yourself. You will need to purchase all the components and solder the board together. This is a fun project in itself. All the schematics/hardware etc. are open and public. 
+          - Schematics etc. can be found here: https://github.com/WVURAIL/os_radio_astro_hw
+          - Circuit boards can be purchased here: https://oshpark.com/shared_projects/qHhrAlnI
 
+      b. Use a different amplifier system using discrete components.  If you plan to go this way, there are some recommendations already on the opensourceradiotelescopes.org site. This is more expensive, but will be much easier. 
 
 2. Optional Modifications
 
