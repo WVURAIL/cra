@@ -16,7 +16,7 @@ This site provides information on how to construct and operate a horn radio tele
    
    * Information on Constructing a Low Noise Amplifier
   
-      The LNA that is used with horn telescopes is not commercially available. Here are 2 options:
+      The LNA that is used with these horn telescopes is not commercially available. Here are 2 options:
     
       a. Build the LNA yourself. You will need to purchase all the components and solder the board together. This is a fun project in itself. All the schematics/hardware etc. are open and public. 
       
