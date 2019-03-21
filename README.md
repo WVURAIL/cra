@@ -63,5 +63,5 @@ This site provides information on how to construct and operate a horn radio tele
    
    * [Lesson 6: Galactic Plane Observation 1 - Conclusions](/Files_uploaded/VelocityCurve_Lesson6_GalacticPlaneObservation1_Conclusions_2018.pdf)
    
-   * [Lesson 7: Galactic Plane Observation 2](/Files_uploaded/VelocityCurve_Lesson7_2018.pdf)
+   * [Lesson 7: Galactic Plane Observation 2](/Files_uploaded/APPhysics_AstroLesson7_GalacticPlaneObservation2_2019.pdf)
    
