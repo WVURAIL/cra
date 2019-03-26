@@ -1,12 +1,12 @@
 # Classroom Radio Astronomy
 
-![rooftop](https://github.com/WVURAIL/cra/blob/master/Files_uploaded/Students_w_Horn_roof.jpg")
+![rooftop](Files_uploaded/Students_w_Horn_roof.jpg")
 This site provides support for teachers interested in doing radio astronomy in their classrooms, or anyone who wants to build a horn radio telescope. It is developed and maintained by teachers who have participated in the Digitial Signal Processing in Radio Astronomy (DSPIRA) program, which is an NSF funded Research Experiences for Teachers (RET) program at the Lane Department of Computer Science and Engineering at West Virginia University. The Principal Investigators are Professors Natalia Schmid and Kevin Bandura. The Green Bank Observatory coordinator is Richard Prestage.
 
 This site provides information on how to construct and operate a horn radio telescope as well as lesson plans and ideas on incorporating radio astronomy in the classroom.
 
 ## Radio Telescope Horn Construction
-![parkinglot](https://github.com/WVURAIL/cra/blob/master/Files_uploaded/Students_w_Horn_parkinlot.jpg")
+![parkinglot](Files_uploaded/Students_w_Horn_parkinlot.jpg")
 
 1. Basic Design
 
