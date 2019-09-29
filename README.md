@@ -10,10 +10,8 @@ This site provides information on how to construct and operate a horn radio tele
 
 1. Basic Design
 
-   * [Basic Horn Construction](/Files_uploaded/DSPIRA_Horn_Assembly.pdf)
-   
-   * [Horn Design and Construction, with Photos](/Files_uploaded/HornTelescope_Design_CRA.pdf)
-   
+   * [Basic Horn Construction](/Files_uploaded/DSPIRA_Horn_Assembly_2019.pdf)
+      
    * Information on Constructing a Low Noise Amplifier
   
       The LNA that is used with these horn telescopes is not commercially available. Here are 2 options:
