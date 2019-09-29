@@ -33,7 +33,9 @@ This site provides information on how to construct and operate a horn radio tele
    
    * [Hardware and Software Needs for Operating the Horn Telescope](/Files_uploaded/HardwareSoftware_Needs_for_HornTelescope.pdf)
    
-   * [Using the Calibration Block and the _spectrum_w_cal.grc_ Program](/Files_uploaded/Instructions_DSPIRAHorn_spectrometer_program.pdf)
+   * [Quick Start Guide for Using the Calibration Block and the _spectrum_w_cal.grc_ Program](/Files_uploaded/Quickstart_Instructions_for_spectrum_w_cal.pdf)
+   
+   * [Detailed Guide for Using the Calibration Block and the _spectrum_w_cal.grc_ Program](/Files_uploaded/Instructions_For_Gnuradio_spectrum_w_cal.pdf)
    
    * [Observations Check List](/Files_uploaded/Observations_CheckList.pdf)
 
