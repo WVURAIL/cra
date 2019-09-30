@@ -12,7 +12,7 @@ This site provides information on how to construct and operate a horn radio tele
 
    * Horn Construction:
       * [Detailed Horn Construction - updated 2019](/Files_uploaded/DSPIRA_Horn_Assembly_2019.pdf)
-      * [Basic Horn Construction (older version)](/Files_uploaded/Instructions_DSPIRAHorn_spectrometer_program)
+      * [Basic Horn Construction (older version)](/Files_uploaded/DSPIRA_Horn_Assembly.pdf)
       * [Basic Horn Construction w/photos (older version)](/Files_uploaded/HornTelescope_Design_CRA.pdf)
       
    * Information on Constructing a Low Noise Amplifier
