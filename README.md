@@ -5,8 +5,9 @@ This site provides support for teachers interested in doing radio astronomy in t
 
 This site provides information on how to construct and operate a horn radio telescope as well as lesson plans and ideas on incorporating radio astronomy in the classroom.
 
-## Radio Telescope System Construction
 ![parkinglot](Students_w_Horn_parkinlot.jpg)
+
+## Radio Telescope System Construction
 
 1. Horn Construction:
       * [Detailed Horn Construction - updated 2019](/Files_uploaded/DSPIRA_Horn_Assembly_2019.pdf)
@@ -23,7 +24,6 @@ This site provides information on how to construct and operate a horn radio tele
       b. Purchase a circuit board here: <https://oshpark.com/shared_projects/qHhrAlnI>
 
       c. Use a different amplifier system using discrete components.  If you plan to go this way, there are some recommendations already on the opensourceradiotelescopes.org site. This is more expensive, but will be much easier. 
-
 
    
 ## Radio Telescope Operation
