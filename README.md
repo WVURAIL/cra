@@ -5,17 +5,15 @@ This site provides support for teachers interested in doing radio astronomy in t
 
 This site provides information on how to construct and operate a horn radio telescope as well as lesson plans and ideas on incorporating radio astronomy in the classroom.
 
-## Radio Telescope Horn Construction
+## Radio Telescope System Construction
 ![parkinglot](Students_w_Horn_parkinlot.jpg)
 
-1. Basic Design
-
-   * Horn Construction:
+1. Horn Construction:
       * [Detailed Horn Construction - updated 2019](/Files_uploaded/DSPIRA_Horn_Assembly_2019.pdf)
       * [Basic Horn Construction (older version)](/Files_uploaded/DSPIRA_Horn_Assembly.pdf)
       * [Basic Horn Construction w/photos (older version)](/Files_uploaded/HornTelescope_Design_CRA.pdf)
       
-   * Information on Constructing a Low Noise Amplifier
+2. Obtaining a Low Noise Amplifier
   
       There are a few options for the LNA that is used with these horn telescopes:
     
@@ -26,20 +24,22 @@ This site provides information on how to construct and operate a horn radio tele
 
       c. Use a different amplifier system using discrete components.  If you plan to go this way, there are some recommendations already on the opensourceradiotelescopes.org site. This is more expensive, but will be much easier. 
 
-2. Optional Modifications
 
-   * _{coming}_
    
 ## Radio Telescope Operation
-1. Instructions for Collecting Data
-   
-   * [Hardware and Software Needs for Operating the Horn Telescope](/Files_uploaded/HardwareSoftware_Needs_for_HornTelescope.pdf)
-   
+1. [Hardware and Software Needs for Operating the Horn Telescope](/Files_uploaded/HardwareSoftware_Needs_for_HornTelescope.pdf)
+
+2. Instructions for Operating the Gnuradio spectrum_w_cal.grc Spectrometer Program and Collecting Data
+
    * [Quick Start Guide for Using the Calibration Block and the _spectrum_w_cal.grc_ Program](/Files_uploaded/Quickstart_Instructions_for_spectrum_w_cal.pdf)
    
    * [Detailed Guide for Using the Calibration Block and the _spectrum_w_cal.grc_ Program](/Files_uploaded/Instructions_For_Gnuradio_spectrum_w_cal.pdf)
    
    * [Observations Check List](/Files_uploaded/Observations_CheckList.pdf)
+   
+3. Instructions for Building a Gnuradio Spectrometer for the Horn Telescope
+
+   * [Instructions on How to Build a Simple Gnuradio Spectrometer for a Horn Telescope, with Explanations](/Files_uploaded/Building_GnuRadio_Spectrometer_part1.pdf)
 
 ## Lesson Plans and Teaching Materials
 
