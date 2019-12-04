@@ -18,12 +18,12 @@ This site provides information on how to construct and operate a horn radio tele
   
       There are a few options for the LNA that is used with these horn telescopes:
     
-      a. Build the LNA yourself. You will need to purchase all the components and solder the board together. This is a fun project in itself. All the schematics/hardware etc. are open and public. [Schematics etc. can be found here](/Files_uploaded/Neutral_Hydrogen_amplifier_v3.pdf)
+      a. Build the LNA yourself. You will need to purchase all the components and solder the board together. This is a fun project in itself. All the schematics/hardware etc. are open and public.
+      * [Schematics etc. can be found here](/Files_uploaded/Neutral_Hydrogen_amplifier_v3.pdf).
+      * _Coming soon_ - A detailed list of parts and where to order them 
+      * The circuit board for this project can be found here: <https://oshpark.com/shared_projects/qHhrAlnI>
 
-
-      b. Purchase a circuit board here: <https://oshpark.com/shared_projects/qHhrAlnI>
-
-      c. Use a different amplifier system using discrete components.  If you plan to go this way, there are some recommendations already on the opensourceradiotelescopes.org site. This is more expensive, but will be much easier. 
+      b. Use a different amplifier system using discrete components.  If you plan to go this way, there are some recommendations already on the opensourceradiotelescopes.org site. This is more expensive, but will be much easier. 
 
    
 ## Radio Telescope Operation
