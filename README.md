@@ -23,7 +23,9 @@ This site provides information on how to construct and operate a horn radio tele
       * _Coming soon_ - A detailed list of parts and where to order them 
       * The circuit board for this project can be found here: <https://oshpark.com/shared_projects/qHhrAlnI>
 
-      b. Use a different amplifier system using discrete components. Several options can be found through a search online. This is more expensive, but will be much easier. 
+      b. Use a different amplifier system using discrete components. Several options can be found through a search online. This is more expensive, but will be much easier. Here are a few suggestions:
+      * https://www.nooelec.com/store/sawbird-h1-barebones.html 
+      * https://www.tindie.com/products/gpio/radio-astronomy-hydrogen-line-low-noise-amplifier/ 
 
    
 ## Radio Telescope Operation
