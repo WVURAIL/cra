@@ -19,7 +19,7 @@ This site provides information on how to construct and operate a horn radio tele
       The system will need a low noise amplifier for the hydrogen line (21cm) at a 1420 MHz center frequency. There are a few options for the LNA that is used with these horn telescopes:
     
       a. Build the LNA yourself. You will need to purchase all the components and solder the board together. This is a fun project in itself. All the schematics/hardware etc. are open and public.
-      * [Schematics etc. can be found here](/Files_uploaded/Neutral_Hydrogen_amplifier_v3.pdf).
+      * [Circuit schematics can be found here](/Files_uploaded/Neutral_Hydrogen_amplifier_v3.pdf).
       * _Coming soon_ - A detailed list of parts and where to order them 
       * The circuit board for this project can be found here: <https://oshpark.com/shared_projects/qHhrAlnI>
 
