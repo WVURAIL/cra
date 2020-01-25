@@ -20,7 +20,7 @@ This site provides information on how to construct and operate a horn radio tele
     
       a. Build the LNA yourself. You will need to purchase all the components and solder the board together. This is a fun project in itself. All the schematics/hardware etc. are open and public.
       * [Circuit schematics can be found here](/Files_uploaded/Neutral_Hydrogen_amplifier_v3.pdf).
-      * _Coming soon_ - A detailed list of parts and where to order them 
+      * [A detailed list of LNA circuit components and how to order them](/Files_uploaded/LNA_OrderingParts_Info.pdf)
       * The circuit board for this project can be found here: <https://oshpark.com/shared_projects/qHhrAlnI>
 
       b. Use a different amplifier system using discrete components. Several options can be found through a search online. This is more expensive, but will be much easier. Here are a few suggestions:
