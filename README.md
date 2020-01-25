@@ -29,7 +29,7 @@ This site provides information on how to construct and operate a horn radio tele
 
    
 ## Radio Telescope Operation
-1. [Hardware and Software Needs for Operating the Horn Telescope](/Files_uploaded/HardwareSoftware_Needs_for_HornTelescope.pdf)
+1. [Hardware and Software Needs for Operating the Horn Telescope](/Files_uploaded/Hardware&Software_Needs_HornTelescope.pdf)
 
 2. Instructions for Operating the Gnuradio spectrum_w_cal.grc Spectrometer Program and Collecting Data
 
