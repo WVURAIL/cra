@@ -1,3 +1,5 @@
+# NOTE: THIS WEBSITE IS OUTDATED. THE NEW WEBSITE CAN BE FOUND HERE: https://wvurail.org/dspira-lessons/ 
+
 # Classroom Radio Astronomy
 
 ![rooftop](Students_w_Horn_roof.jpg)
