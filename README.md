@@ -1,4 +1,4 @@
-# NOTE: THIS WEBSITE IS OUTDATED. THE NEW WEBSITE CAN BE FOUND HERE: https://wvurail.org/dspira-lessons/ 
+# <span style="color:red"> NOTE: THIS WEBSITE IS OUTDATED. THE NEW WEBSITE CAN BE FOUND HERE: [https://wvurail.org/dspira-lessons/](https://wvurail.org/dspira-lessons/)</span>
 
 # Classroom Radio Astronomy
 
